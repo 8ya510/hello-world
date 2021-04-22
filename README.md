@@ -1,4 +1,6 @@
 # hello-world
 github-tutorial
 
-Hi,I am in Japan and I am learning Civil Engineering!
+Hi,
+
+I am majoring in civil engineering in Japan.
